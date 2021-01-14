@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\Login_Form[Databse]\Login_Form[Databse]\bin\Login_Form[Databse].dll
+c:\users\admin\documents\visual studio 2012\Projects\Login_Form[Databse]\Login_Form[Databse]\bin\Login_Form[Databse].pdb
+c:\users\admin\documents\visual studio 2012\Projects\Login_Form[Databse]\Login_Form[Databse]\obj\Debug\Login_Form[Databse].csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Login_Form[Databse]\Login_Form[Databse]\obj\Debug\Login_Form[Databse].dll
+c:\users\admin\documents\visual studio 2012\Projects\Login_Form[Databse]\Login_Form[Databse]\obj\Debug\Login_Form[Databse].pdb
